@@ -1,4 +1,4 @@
-# NodeAuthApp A NodeJS App that uses Passport for authentication
+# NodeAuthApp A NodeJS App that uses Passport for authentication...
 
-#NodeJS
-...
+
+
